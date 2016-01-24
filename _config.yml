@@ -1,17 +1,17 @@
 analytics: {}
 color:
   brandColors:
-    - '#B8C8D8'
-    - '#20A880'
-    - '#788098'
-    - '#2058A0'
-    - '#000000'
+    - '#90A8C0'
+    - '#082058'
+    - '#6888A8'
+    - '#0828A0'
+    - '#A8C0E0'
   brandStrength: 0.79054
   lightness: 0.541016
   rhythmicContrast: 0.466216
   saturation: 0.496621
 cta: {}
-layout_spectrum: 0.39527
+layout_spectrum: 1
 name: markdeli
 opengraph: {}
 purpose: {}
